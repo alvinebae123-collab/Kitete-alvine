@@ -34,13 +34,17 @@ Captures d’écran
 
 Après avoir lancé l’application, réalise une capture de chacune des quatre pages et place les fichiers dans le dossier screenshots/ avec exactement ces noms :
 
-1. Connexion
+### 1. Connexion
+![Page de connexion](screenshots/01_connexion.png.JPG)
 
-2. Accueil — CV
+### 2. Accueil — CV
+![Page CV](screenshots/02_accueil_cv.png.JPG)
 
-3. Famille
+### 3. Famille
+![Page famille](screenshots/03_famille.png.JPG)
 
-4. Contact
+### 4. Contact
+![Page contact](screenshots/04_contact.png.JPG)
 
 Structure du projet
 
