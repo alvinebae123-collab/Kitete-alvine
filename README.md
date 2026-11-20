@@ -32,11 +32,13 @@ flutter run
 
 Captures d’écran
 
-Après avoir lancé l’application, réalise une capture de chacune des quatre pages et place les fichiers dans le dossier screenshots/ avec exactement ces noms :
+Après avoir lancé l’application, réalise une capture de chacune des quatre pages et place les fichiers dans le dossier screenshots/ avec exactement ces noms 
 
-![Connexion](01_connexion.png.JPG)
+### 1. Connexion
+![Page de connexion](screenshots/01_connexion.png.JPG)
 
-![CV](02_accueil_cv.png.JPG)
+### 2. Accueil — CV
+![Page CV](screenshots/02_accueil_cv.png.JPG)
 
 ![Famille](03_famille.png.JPG)
 
