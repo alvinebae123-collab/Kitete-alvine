@@ -1,6 +1,6 @@
 CV Flutter — KITETE NDJATE CHRISTIAN
 
-Application mobile réalisée avec Flutter et Dart dans le cadre d’un TP universitaire à l’ISIG Goma.
+Application mobile réalisée avec Flutter et Dart dans le cadre d’un TP à l’ISIG Goma.
 
 Elle présente quatre espaces : connexion, CV, famille et coordonnées.
 
@@ -10,12 +10,12 @@ Fonctionnalités
 * Présentation du profil, de la formation, des expériences et compétences.
 * Présentation des membres de la famille.
 * Coordonnées cliquables : téléphone, e-mail et GitHub.
-* Navigation avec une barre inférieure (BottomNavigationBar).
+* Navigation avec une barre inférieure.
 
 Identifiants de démonstration
 
-* Identifiant : alvine
-* Mot de passe : 1234
+* Identifiant : yanick
+* Mot de passe : 2580
 
 Ces identifiants sont prévus uniquement pour la démonstration du TP. Ils sont codés dans l’application et ne constituent pas une authentification sécurisée.
 
@@ -32,26 +32,21 @@ flutter run
 
 Captures d’écran
 
-Après avoir lancé l’application, réalise une capture de chacune des quatre pages et place les fichiers dans le dossier screenshots/ avec exactement ces noms 
+Après avoir lancé l’application, réalise une capture de chacune des quatre pages et place les fichiers dans le dossier screenshots/ avec exactement ces noms :
 
-### 1. Connexion
-![Page de connexion](screenshots/01_connexion.png.JPG)
+1. Connexion
 
-### 2. Accueil — CV
-![Page CV](screenshots/02_accueil_cv.png.JPG)
+2. Accueil — CV
 
-![Famille](03_famille.png.JPG)
+3. Famille
 
-![Contact](04_contact.png.JPG)
+4. Contact
 
 Structure du projet
 
-cv_flutter_alvine/
+cv_flutter_christian/
 ├── assets/
 │   └── images/
-│       ├── moi.jpg
-│       ├── pere.jpg
-│       └── mere.jpg
 ├── lib/
 │   └── main.dart
 ├── screenshots/
@@ -75,9 +70,6 @@ Auteur
 KITETE NDJATE CHRISTIAN
 
 * Institution : ISIG Goma
-* Formation : À compléter
-* Année académique : 2026–2027
-* Adresse : À compléter
 * Téléphone : +243 995033695
 * E-mail : alvinebae123@gmail.com
 * GitHub : https://github.com/alvinebae123-collab
